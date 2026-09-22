@@ -1,12 +1,17 @@
 <div align="center">
 
-<!-- Add your uploaded headshot to this repo as assets/profile.jpg -->
 <img src="assets/profile.jpg" width="180" style="border-radius:50%" alt="Layla Drummond profile photo">
 
 # 💗 Hey, I'm Layla!
 ### 🛡️ Cybersecurity Student • 🔎 Security Analyst in Training • 💻 Builder & Troubleshooter
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Cybersecurity+%2B+IT+%2B+Automation;Learning+by+building+real+projects;Turning+logs+into+answers+%F0%9F%94%8D;Always+curious.+Always+learning.+%F0%9F%92%97" alt="Typing SVG" />
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Layla_Drummond-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layladrummond6010/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](resume/Layla_Drummond_Resume.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-NaviSleepy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaviSleepy)
 
 </div>
 
@@ -177,23 +182,13 @@ Roles I'm especially interested in:
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NaviSleepy&show_icons=true&theme=radical&hide_border=true" alt="Layla's GitHub stats">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaviSleepy&layout=compact&theme=radical&hide_border=true" alt="Top languages">
-
-</div>
-
----
-
 ## 💌 Let's Connect
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-NaviSleepy-ff69b4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaviSleepy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Layla_Drummond-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/layladrummond6010/)
+[![Resume](https://img.shields.io/badge/Resume-View_PDF-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](resume/Layla_Drummond_Resume.pdf)
+[![GitHub](https://img.shields.io/badge/GitHub-NaviSleepy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NaviSleepy)
 
 💗 **Building one project, one investigation, and one certification at a time.**
 
