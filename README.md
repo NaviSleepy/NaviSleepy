@@ -181,7 +181,7 @@ Roles I'm especially interested in:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=NaviSleepy&show_icons=true&theme=radical&hide_border=true" alt="Layla's GitHub stats">
+<img height="165" src="(https://github-stats-extended.vercel.app/api?username=NaviSleepy&show_icons=true&theme=radical&hide_border=true" alt="Layla's GitHub stats">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaviSleepy&layout=compact&theme=radical&hide_border=true" alt="Top languages">
 
